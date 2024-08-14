@@ -12,9 +12,11 @@
     text-transform: lowercase;
     }
     #p2{
-    color: rgb(235, 24, 24); 
-    text-shadow: 6px 6px 6pxwhite;
+   color: rgb(235, 24, 24); 
+    text-shadow: 6px 6px 6px white;
     text-decoration: underline;
+    display: inline-block;
+    width: 100%;
     text-align: right;
     object-fit: fill;
     text-transform: capitalize;
